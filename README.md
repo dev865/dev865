@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @dev865
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Spring framework.
-😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀
 
 
 <!---
